@@ -1,7 +1,7 @@
 <h1> Data respository </h1>
 
 <h3> Description</h3>
-This is reserved for storing Data in AI/ML projects
+This folder is reserved for storing Data in AI/ML projects
 
 <!-- TABLE OF CONTENTS -->
 <details>
