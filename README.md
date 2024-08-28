@@ -1,7 +1,6 @@
-<h1> Data respository </h1> Data
+<h1> Data respository </h1>
 
 <h3> Description</h3>
-  Description
 This is reserved for storing Data in AI/ML projects
 
 <!-- TABLE OF CONTENTS -->
