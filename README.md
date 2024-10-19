@@ -30,7 +30,7 @@ This folder is reserved for storing Data in AI/ML projects
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>List of Data files</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
